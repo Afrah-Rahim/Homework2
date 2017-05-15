@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArbitrarySum()
+comment1.params=a
+comment1.target=ArbitrarySum(int[])
+comment2.params=n
+comment2.target=void\ filler(int)
+comment2.text=\n\ Fills\ the\ array\ with\ a\ N\ amount\ of\ random\ numbers\ between\ -100\ and\ 100\n\ \n\ Precondition\:\ none\n\ Postcondition\:\ the\ array\ is\ filled\n\ @param\ \ \ \ \ \ \ int\ n\:\ length\ of\ array[]\n\ @return\ \ \ \ \ \ void\n
+comment3.params=
+comment3.target=int\ sum()
+comment3.text=\n\ Adds\ all\ the\ digits\ in\ the\ arbitrary\ array\n\ \n\ Precondition\:\ the\ array\ has\ been\ filled\ with\ "n"\ amount\ of\ random\ numbers\n\ Postcondiion\:\ the\ value\ of\ sum\ is\ changed\ according\ to\ the\ total\ sum.\ Zero\ is\ treated\ a\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ positive\ numbers.\ If\ the\ array\ is\ less\ than\ 5\ or\ has\ less\ than\ 5\ positive\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ numbers,\ it\ will\ return\ -1\ as\ error\ code.\n\ @param\ \ \ \ \ \ \ a[]\ (array\ of\ integers)\n\ @return\ \ \ \ \ \ int\ (the\ sum)\n
+comment4.params=
+comment4.target=int\ length()
+comment4.text=\n\ Returns\ the\ length\ of\ the\ array\ \n\ \n\ @param\ \ \ \ \ \ \ none\n\ @return\ \ \ \ \ \ int,\ length\ of\ array[]\n
+numComments=5
